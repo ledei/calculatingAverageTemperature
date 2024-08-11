@@ -1,0 +1,14 @@
+F:\programmering\c# - masterclass\calculatingAverageTemperature\bin\Debug\net8.0\calculatingAverageTemperature.exe
+F:\programmering\c# - masterclass\calculatingAverageTemperature\bin\Debug\net8.0\calculatingAverageTemperature.deps.json
+F:\programmering\c# - masterclass\calculatingAverageTemperature\bin\Debug\net8.0\calculatingAverageTemperature.runtimeconfig.json
+F:\programmering\c# - masterclass\calculatingAverageTemperature\bin\Debug\net8.0\calculatingAverageTemperature.dll
+F:\programmering\c# - masterclass\calculatingAverageTemperature\bin\Debug\net8.0\calculatingAverageTemperature.pdb
+F:\programmering\c# - masterclass\calculatingAverageTemperature\obj\Debug\net8.0\calculatingAverageTemperature.GeneratedMSBuildEditorConfig.editorconfig
+F:\programmering\c# - masterclass\calculatingAverageTemperature\obj\Debug\net8.0\calculatingAverageTemperature.AssemblyInfoInputs.cache
+F:\programmering\c# - masterclass\calculatingAverageTemperature\obj\Debug\net8.0\calculatingAverageTemperature.AssemblyInfo.cs
+F:\programmering\c# - masterclass\calculatingAverageTemperature\obj\Debug\net8.0\calculatingAverageTemperature.csproj.CoreCompileInputs.cache
+F:\programmering\c# - masterclass\calculatingAverageTemperature\obj\Debug\net8.0\calculatingAverageTemperature.dll
+F:\programmering\c# - masterclass\calculatingAverageTemperature\obj\Debug\net8.0\refint\calculatingAverageTemperature.dll
+F:\programmering\c# - masterclass\calculatingAverageTemperature\obj\Debug\net8.0\calculatingAverageTemperature.pdb
+F:\programmering\c# - masterclass\calculatingAverageTemperature\obj\Debug\net8.0\calculatingAverageTemperature.genruntimeconfig.cache
+F:\programmering\c# - masterclass\calculatingAverageTemperature\obj\Debug\net8.0\ref\calculatingAverageTemperature.dll
